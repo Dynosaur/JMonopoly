@@ -1,0 +1,1 @@
+javapath=E:\Lang\jdk-15
