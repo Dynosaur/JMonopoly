@@ -1,0 +1,8 @@
+.vscode
+dist
+saves
+target
+variation-configs
+.classpath
+.project
+.settings
